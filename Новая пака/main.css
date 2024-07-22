@@ -1,0 +1,33 @@
+.h2{
+    color: antiquewhite;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box2{
+ width: 133px 
+ height: 78px
+ background-color: red;
+ 
+
+
+}
+
+.father{
+    width: 1200px;
+    margin: 0%auto;
+    background-color: yellow;
+    border-radius: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap:150px ;
+    justify-content: center;
+
+}
